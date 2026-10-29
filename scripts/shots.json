@@ -1,0 +1,12 @@
+[
+  { "file": "01_检测总览大屏.png", "route": "/dashboard" },
+  { "file": "02_数据集管理.png", "route": "/dataset" },
+  { "file": "03_数据集新增.png", "route": "/dataset", "click": "新增" },
+  { "file": "04_事件流可视化.png", "route": "/events" },
+  { "file": "05_时空图构建.png", "route": "/graph", "wait": 3000 },
+  { "file": "06_模型管理.png", "route": "/models" },
+  { "file": "07_训练任务管理.png", "route": "/train" },
+  { "file": "08_检测推理分析.png", "route": "/infer" },
+  { "file": "09_评估与消融.png", "route": "/eval" },
+  { "file": "10_方法对比.png", "route": "/compare" }
+]
